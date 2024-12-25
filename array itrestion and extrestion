@@ -1,0 +1,24 @@
+#include<iostream>
+using namespace std;
+int main (){
+//	int arr[4]={1,2,3,4};
+//	int arr2[5]={1,2,3,4,5};
+//	cout<<arr[3]<<endl<<arr2[4]<<endl;
+//}
+
+
+
+//jo user ne value di hai ushi ko dubara print krana hai
+int n;
+cout<<"enter a no.";
+cin>>n;
+int b[n];
+for(int i=0;i<n;i++){
+	cin>>b[i];
+}
+	for(int 
+	i=0;i<n;i++){
+		cout<<b[i]<<endl;
+	}
+}
+
